@@ -98,6 +98,16 @@ Issues
 
 Please submit questions, comments, bugs, enhancement requests at https://github.com/mmaraya/port-mirroring/issues.
 
+#ANDREITA PILAR 
+
+#CARDENAS REYES
+
+#MORITA
+
+#ODIO RSTUDIO
+
+#AMO RSTUDIO
+
 Disclaimer
 ----------
 
